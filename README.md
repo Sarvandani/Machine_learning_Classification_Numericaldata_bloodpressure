@@ -19,6 +19,7 @@ BMI	Body Mass Index (kg/m²)	18 - 40
 Blood Sugar	Blood sugar level (mg/dL)	70 - 150
 
 🧠 ML Models Used
+
 Logistic Regression
 
 Support Vector Machine (SVM)
